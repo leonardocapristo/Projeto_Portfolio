@@ -1,28 +1,2 @@
-header{
-    display: flex;
-    justify-content: space-between;
-    background-color: #7C5E99;
-    border-bottom: 10px solid black;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-
-nav{
-    text-align: right;
-}
-
-
-span{
-    background-color:#F25A70;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-    
-    
-}
-
 
 
